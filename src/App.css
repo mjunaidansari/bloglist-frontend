@@ -36,3 +36,28 @@
     transform: rotate(360deg);
   }
 }
+
+.red {
+  color: darkred;
+  border: 3px solid red;
+  font-size: 20px;
+  padding: 5px;
+  border-radius: 5px;
+  background-color: lightgray;
+}
+
+.green {
+  color: darkgreen;
+  border: 3px solid green;
+  font-size: 20px;
+  padding: 5px;
+  border-radius: 5px;
+  background-color: lightgray;
+}
+
+.blog {
+  border: 1px solid black;
+  border-radius: 10px;
+  padding: 5px;
+  margin: 5px;
+}

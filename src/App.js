@@ -115,7 +115,7 @@ const App = () => {
             setPassword('')
         } catch (exception) {
             console.log(exception)
-            setNotification('Invalid username or Password', 'red')
+            setNotification('Wrong Credentials', 'red')
         }
     }
 
